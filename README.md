@@ -1,3 +1,5 @@
+Require: libncurses-dev
+
 Compile:
 
 #make
